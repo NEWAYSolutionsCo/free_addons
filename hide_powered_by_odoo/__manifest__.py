@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Hide Powered By Odoo 14',
+    'name': 'Hide Powered By Odoo',
     'version': '15.0.1.0.0',
     'sequence': 1,
     'summary': 'Hide Powered By Odoo in login screen.',
