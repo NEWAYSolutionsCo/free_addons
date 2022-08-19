@@ -3,7 +3,7 @@
 
 {
     'name': 'Show/Hide Password',
-    'version': '14.0.1.0.0',
+    'version': '13.0.1.0.0',
     'sequence': 1,
     'summary': 'Show/Hide Password in login screen.',
     'description': "You can show and hide your password in login screen.",

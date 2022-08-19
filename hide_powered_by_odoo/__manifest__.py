@@ -3,7 +3,7 @@
 
 {
     'name': 'Hide Powered By Odoo',
-    'version': '14.0.1.0.0',
+    'version': '13.0.1.0.0',
     'sequence': 1,
     'summary': 'Hide Powered By Odoo in login screen.',
     'description': "Hide Powered By Odoo in login screen.",
