@@ -14,7 +14,7 @@
     'website': 'https://neway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/screenshoot.png'   
+        'static/description/screenshot.png'   
     ],
     'depends': [
         'web'
