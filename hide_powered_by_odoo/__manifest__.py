@@ -5,7 +5,7 @@
     'name': 'Hide Powered By Odoo',
     'version': '13.0.1.0.0',
     'sequence': 1,
-    'summary': 'Hide Powered By Odoo in login screen.',
+    'summary': 'Hide Powered By Odoo login screen, Remove Powered By Odoo Login Page, Web Responsive login, Odoo Web Login Page, Web backend login, Odoo login',
     'description': "Hide Powered By Odoo in login screen.",
     'author': 'NEWAY Solutions',
     'maintainer': 'NEWAY Solutions',
@@ -14,7 +14,7 @@
     'website': 'https://neway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'   
+        'static/description/screenshot.png'   
     ],
     'depends': [
         'web'
