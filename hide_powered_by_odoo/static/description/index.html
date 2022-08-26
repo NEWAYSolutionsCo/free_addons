@@ -7,18 +7,22 @@
         <title>NEWAY Solutions</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 
-    <body>
-        <div class="position-relative mb-5">
-            <img src="./banner.png" class="img img-fluid col-8 offset-2"/>
+    <body style="background: #f3f3f3;">
+        <section class="position-relative mb-5 bg-white shadow" style="border-radius: 30px;">
+            <img src="./banner.png" class="img img-fluid col-8 offset-2" style="border-radius: 30px;"/>
             <div class="position-absolute" style="width: 30%;height: 20px;cursor: text;margin-top: -23%;margin-left: 38%;font-family: system-ui;font-size: 16px;font-weight: 700;color: #001e95;text-align: center;">
                 neway-solutions.com/portfolio
             </div>
-        </div>
-        <section class="mb-5">
+        </section>
+        <section class="mb-5 p-5 bg-white shadow" style="border-radius: 30px;">
             <div class="container">
-                <h1 class="pb-4 text-center" style="color: #2c1e73;">Features</h1>
+                <h1 class="pb-4 text-center" style="color: #881e73;">
+                    <img class="img img-fluid" alt="" src="./icons/feature.svg"/>
+                    <span class="ml-2">Features</span>
+                </h1>
                 <div class="row mt-5 gx-lg-5 justify-content-center">
                     <div class="col-lg-6 mb-5">
                         <div class="card border-0 h-100" style="border-radius: 0.5rem;box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;">
@@ -37,10 +41,19 @@
                 </div>
             </div>
         </section>
-        <section class="mb-5">
-            <div class="container">
-                <h1 class="pb-4 text-center" style="color: #2c1e73;">Screenshots</h1>
-                <img src="./screenshot.png" class="img img-fluid"/>
+        <section class="mb-5 p-5 bg-white shadow" style="border-radius: 30px;">
+            <div class="container text-center mb-4">
+                <h1 class="pb-4 d-flex justify-content-center" style="color: #881e73;">
+                    <img class="img img-fluid" alt="" src="./icons/screenshot.svg"/>
+                    <span class="ml-2">Screenshots</span>
+                </h1>
+            </div>
+            <div class="container text-left mb-5 p-5" style="background-color: #f0f0f0;border-radius: 30px;">
+                <h1 class="mb-4">Hide Powered By Odoo</h1>
+                <p class="mb-4" style="font-size: 20px;font-weight: 500;letter-spacing: 0.02em;color: #535456;">
+                    Hide Powered By Odoo in login screen.
+                </p>
+                <img src="./screenshot.png" class="img img-fluid p-4 bg-white" style="border-radius: 30px;"/>
             </div>
         </section>
     </body>
