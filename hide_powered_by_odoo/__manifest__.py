@@ -5,7 +5,10 @@
     'name': 'Hide Powered By Odoo',
     'version': '15.0.1.0.0',
     'sequence': 1,
-    'summary': 'Hide Powered By Odoo login screen, Remove Powered By Odoo Login Page, Web Responsive login, Odoo Web Login Page, Web backend login, Odoo login',
+    'summary': """
+        Hide Powered By Odoo login screen, Remove Powered By Odoo Login Page, Web Responsive login, Odoo Web Login Page, Web backend login, Odoo login,
+        Hide Powered By Odoo SignIn screen, Remove Powered By Odoo SignUp Page, Web Responsive SignIn, Odoo Web SignIn Page, Web backend SignIn, Odoo SignUp Page, Odoo SignIn Page
+    """,
     'description': "Hide Powered By Odoo in login screen.",
     'author': 'NEWAY Solutions',
     'maintainer': 'NEWAY Solutions',
