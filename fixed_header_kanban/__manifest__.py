@@ -23,7 +23,7 @@
         
     ],
     'assets': {
-        'fixed_header_kanban.assets_backend': [
+        'web.assets_backend': [
             'fixed_header_kanban/static/src/scss/kanban.scss',
         ],
     },

@@ -26,7 +26,7 @@
         'views/login_templates.xml',
     ],
     'assets': {
-        'show_hide_password.assets_frontend': [
+        'web.assets_frontend': [
             'show_hide_password/static/src/scss/login.scss',
         ],
     },
