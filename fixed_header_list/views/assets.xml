@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_backend_fixed_header_list" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/fixed_header_list/static/src/scss/list.scss"/>
+        </xpath>
+    </template>
+
+</odoo>
