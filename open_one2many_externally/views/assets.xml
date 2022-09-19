@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="list_view_assets_backend" name="list view assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+
+            <link rel="stylesheet" type="text/scss" href="/open_one2many_externally/static/src/scss/list_view.scss"/>
+
+            <script type="text/javascript" src="/open_one2many_externally/static/src/js/list_view.js"/>
+
+        </xpath>
+    </template>
+
+</odoo>
