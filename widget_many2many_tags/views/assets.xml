@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_backend_widget_many2many_tags" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/widget_many2many_tags/static/src/scss/widget.scss"/>
+        </xpath>
+    </template>
+
+</odoo>
