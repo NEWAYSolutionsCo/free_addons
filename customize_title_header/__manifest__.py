@@ -5,7 +5,7 @@
     'name': 'Customize Title Header',
     'version': '15.0.1.0.0',
     'sequence': 1,
-    'summary': 'Custom shortcut title, Odoo Favicon Title, Odoo Title and Favicon, Odoo Backend Title Favicon, Odoo Web Favicon Title, Odoo Web Title, Odoo Customize Title Header, Odoo Browser Header, Odoo Header Favicon, Odoo Header Title, Remove Odoo Favicon Header, Remove Odoo Title, Remove Favicon Header',
+    'summary': 'Custom shortcut title, Odoo Favicon Title, Odoo Title and Favicon, Odoo Backend Title Favicon, Odoo Web Favicon Title, Odoo Web Title, Odoo Customize Title Header, Odoo Browser Header, Odoo Header Favicon, Odoo Header Title, Web Window Title, Web Backend Title, Odoo Backend Title, Web Responsive Title, Remove Odoo Favicon Header, Remove Odoo Title, Remove Favicon Header',
     'description': "Choose your own Title to display on the browser header.",
     'author': 'NEWAY Solutions',
     'maintainer': 'NEWAY Solutions',
