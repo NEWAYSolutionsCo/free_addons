@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_backend_chatter_position_right" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/chatter_position_right/static/src/scss/form.scss"/>
+        </xpath>
+    </template>
+
+</odoo>
