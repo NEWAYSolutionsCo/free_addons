@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="radio_input_assets" name="radio input assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+
+            <link rel="stylesheet" type="text/scss" href="/widget_radio_input/static/src/scss/input.scss"/>
+
+        </xpath>
+    </template>
+
+</odoo>
