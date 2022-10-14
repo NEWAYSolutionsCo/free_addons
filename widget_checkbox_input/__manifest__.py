@@ -5,7 +5,13 @@
     'name': 'Checkbox Input Widget',
     'version': '15.0.1.0.0',
     'sequence': 1,
-    'summary': 'Checkbox Input Widget, Web Widget Checkbox Input, Web Widget Input Checkbox, Input Design, New Design Input, Web Responsive Input, Web Backend Input, Web Field Widget, Odoo Widget Input Checkbox',
+    'summary': """
+        Checkbox Input Widget, Web Widget Checkbox Input, Web Widget Input Checkbox, Input Design, New Design Input Widget, 
+        Web Responsive Input, Web Backend Input, Web Field Widget, Odoo Widget Input Checkbox, Checked Input Checked Widget,
+        Input Style New Style Input Design Checkbox Style Checkbox, Bootstrap Input Odoo Widget Odoo Input Form View Input,
+        Bootsrap Kits Forms, Bootstrap Forms Kits Inputs Widget, Web Field Odoo Checkbox, Odoo Field Widget Field Checkbox,
+        Checkbox Field Boolean Field Style, Selected Checkbox, Design Form Style, Boolean Checkbox Boolean Input Field
+    """,
     'description': "Attractive Checkbox Input to use.",
     'author': 'NEWAY Solutions',
     'maintainer': 'NEWAY Solutions',
