@@ -5,7 +5,13 @@
     'name': 'Radio Input Widget',
     'version': '12.0.1.0.0',
     'sequence': 1,
-    'summary': 'Radio Input Widget, Web Widget Radio Input, Web Widget Input Radio, Input Design, New Design Input, Web Responsive Input, Web Backend Input, Web Field Widget, Odoo Widget Input Radio',
+    'summary': """
+        Radio Input Widget, Web Widget Radio Input, Web Widget Input Radio, Input Design, New Design Input Widget, 
+        Web Responsive Input, Web Backend Input, Web Field Widget, Odoo Widget Input Radio, Checked Input Checked Widget,
+        Input Style New Style Input Design Radio Style Radio, Bootstrap Input Odoo Widget Odoo Input Form View Input,
+        Bootsrap Kits Forms, Bootstrap Forms Kits Inputs Widget, Web Field Odoo Radio, Odoo Field Widget Field Radio,
+        Radio Field Boolean Field Style, Selected Radio, Design Form Style, Boolean Radio Boolean Input Field
+    """,
     'description': "Attractive Radio Input to use.",
     'author': 'NEWAY Solutions',
     'maintainer': 'NEWAY Solutions',

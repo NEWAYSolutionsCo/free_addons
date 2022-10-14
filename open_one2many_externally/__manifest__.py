@@ -5,7 +5,12 @@
     'name': 'Open One2many in External ListView',
     'version': '12.0.1.0.0',
     'sequence': 1,
-    'summary': 'External List View, External One2many List, All in one External One2many List, All in one External One2many List, Open ListView One2many, Open List View One2many, Open One2many in List, External SubList View, External Sub List, Open One2many FormView, , Open One2many Form View',
+    'summary': """
+        External List View, External One2many List, All in one External One2many List, All in one One2many List, 
+        Open One2many FormView, All in one ListView Manager, Open One2many Form View, All in one List View Manager,
+        Dynamic View List Dynamic List View, Search Filters Search, Search Group by Search, External Table List,
+        Open ListView One2many, Open List View One2many, Open One2many in List, External SubList View, External Sub List
+    """,
     'description': "Open One2many in External ListView to allow users to search, filter and group by.",
     'author': 'NEWAY Solutions',
     'maintainer': 'NEWAY Solutions',
