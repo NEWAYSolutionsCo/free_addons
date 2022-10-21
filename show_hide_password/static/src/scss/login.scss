@@ -1,0 +1,13 @@
+form .form-group.field-password {
+    position: relative;
+}
+
+form .form-group.field-password input{
+    padding: 0.5rem 1.75rem 0.5rem 0.75rem;
+}
+
+form .form-group.field-password i {
+    position: absolute;
+    top: 35px;
+    right: 12px;
+}
