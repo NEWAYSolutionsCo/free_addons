@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="layout" inherit_id="web.layout" name="Customize Favicon and Title">
+        <xpath expr="//link" position="replace">
+            <link type="image/ico" rel="shortcut icon" t-att-href="'/customize_favicon_title/static/img/favicon.ico'"/>
+        </xpath>
+    </template>
+
+    <template id="customize_favicon_title_assets" name="customize favicon title assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/customize_favicon_title/static/src/js/favicon.js"/>
+        </xpath>
+    </template>
+
+</odoo>
