@@ -13,14 +13,14 @@
         Radio Field Boolean Field Style, Selected Radio, Design Form Style, Boolean Radio Boolean Input Field
     """,
     'description': "Attractive Radio Input to use.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'
+        'static/description/wallpaper.png'
     ],
     'depends': [
         

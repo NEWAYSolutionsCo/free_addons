@@ -17,14 +17,14 @@
         Chatter User Mails, Chatter User Activity, Chatter User Notes, Chatter Sidebar, Hide Chatter Hide, Edit Logs, Log notes, Activity Preview
     """,
     'description': "Change Odoo Chatter Position from bottom to right.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/screenshot.gif'    
+        'static/description/wallpaper.png'   
     ],
     'depends': [
         'web'

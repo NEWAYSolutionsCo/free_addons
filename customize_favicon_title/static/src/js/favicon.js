@@ -9,7 +9,7 @@ return Favicon.include({
     init: function (parent) {
         this._super(parent);
         
-        this.set('title_part', {"zopenerp": "NEWAY Solutions"});
+        this.set('title_part', {"zopenerp": "Innoway"});
     },
 
 });

@@ -19,14 +19,14 @@
         Followers Odoo Chatter, Followers Chatter Log, Followers Chatter Notes, Web Backend Chatter, Web Responsive Chatter, Disable Chatter Followers, 
     """,
     'description': "Remove followers section from chatter.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'    
+        'static/description/wallpaper.png'    
     ],
     'depends': [
         'web'

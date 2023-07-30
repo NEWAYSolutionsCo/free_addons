@@ -13,14 +13,14 @@
         Responsive Partner Kanban View, Advanced Partner KanbanView, Responsive Partner Card View, Advanced Partner CardView
     """,
     'description': "The new style of kanban view offers an amazing view of partner details.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/screenshot.gif'
+        'static/description/wallpaper.png'
     ],
     'depends': [
         'base',
