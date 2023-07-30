@@ -20,14 +20,14 @@
         Web Responsive Input, Web Backend Input, Web Field Widget, Odoo Widget Input Toggle Switch,
     """,
     'description': "Attractive Toggle Switch Input to use.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'
+        'static/description/wallpaper.png'
     ],
     'depends': [
         

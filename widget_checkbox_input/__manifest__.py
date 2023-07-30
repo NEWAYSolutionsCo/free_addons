@@ -13,14 +13,14 @@
         Checkbox Field Boolean Field Style, Selected Checkbox, Design Form Style, Boolean Checkbox Boolean Input Field
     """,
     'description': "Attractive Checkbox Input to use.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'
+        'static/description/wallpaper.png'
     ],
     'depends': [
         
