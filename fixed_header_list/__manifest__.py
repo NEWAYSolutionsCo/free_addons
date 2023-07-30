@@ -14,11 +14,11 @@
         List View Manager ListView Manager, Sticky Tree View Fixed Tree View, All in one Tree View, Fix List Header Table, Fixed Table Header, 
     """,
     'description': "Fixed Header List View is very useful for displaying list headers within Odoo.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
         'static/description/screenshot.gif'    

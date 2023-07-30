@@ -16,14 +16,14 @@
         Bootsrap Kits Forms, Bootstrap Forms Kits Inputs Widget, Web Field Odoo Many2Many, Odoo Field Widget Field Many2Many,
     """,
     'description': "New style for Many2Many Tags Link Widget",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'    
+        'static/description/wallpaper.png'    
     ],
     'depends': [
         
