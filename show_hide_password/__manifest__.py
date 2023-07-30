@@ -14,14 +14,14 @@
         Show/Hide Password in sign in screen, View Password SignIn Page, Show Password SignUp Page, Hide Password SignIn Page
     """,
     'description': "You can show and hide your password in login screen.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/screenshot.png'   
+        'static/description/wallpaper.png'   
     ],
     'depends': [
         'web'
