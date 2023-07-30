@@ -21,7 +21,7 @@
     'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/screenshot.gif'   
+        'static/description/wallpaper.png' 
     ],
     'depends': [
         'web'
