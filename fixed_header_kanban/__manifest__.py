@@ -24,14 +24,14 @@
         Web Sticky Kanban Header, Freeze Kanban Header, All in one Fix Header, All in one Permanent Header, Frozen Header Kanban
     """,
     'description': "Fixed Header Kanban View is very useful for displaying kanban headers within Odoo.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/screenshot.gif'     
+        'static/description/wallpaper.png'  
     ],
     'depends': [
         'web'

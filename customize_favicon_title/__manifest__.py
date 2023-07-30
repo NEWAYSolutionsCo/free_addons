@@ -15,14 +15,14 @@
         Remove Favicon Header, Web Odoo Shortcut Favicon Shortcut Odoo Shortcut, Odoo Backend Favicon Odoo Backend Title Odoo Browser
     """,
     'description': "Choose your own Favicon and Title to display on the browser header.",
-    'author': 'NEWAY Solutions',
-    'maintainer': 'NEWAY Solutions',
+    'author': 'Innoway',
+    'maintainer': 'Innoway',
     'price': '0.0',
     'currency': 'USD',
-    'website': 'https://neway-solutions.com',
+    'website': 'https://innoway-solutions.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'
+        'static/description/wallpaper.png'
     ],
     'depends': [
         'web'
